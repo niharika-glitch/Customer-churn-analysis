@@ -1,19 +1,19 @@
 # Customer-churn-analysis
 
-Two dataset has been used contaning customer order and payments details.
+# Two dataset has been used contaning customer order and payments details.
 
-Data preprocessing:-
+# Data preprocessing:-
 Find key how two data sets are connected
 Convert date into int and in the same format to increase readibility
 
-Languages and tools
+# Languages and tools
 Worked with MY SQL workbench to get analysis and insights also to visualize data power bi has been used.
 
-Working with data
+# Working with data
 CSV file 01--customer orders--it consists of order id, customer id, addresss, order status ,order amount ,shipping address
 CSV file 02-- payments-- it consists of payment id,payment date,payment mode,payment amount and payment status.
  
-Findings
+# Findings
 Find total order placed, total revenue and average order value
 Finding total order palaced and amount in different financial across different mode of payment and payment status.
 Getting total succesfull, pending and failed order
