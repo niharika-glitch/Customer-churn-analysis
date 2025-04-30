@@ -1,4 +1,4 @@
-# Customer-churn-analysis
+# Customer-sales -analysis
 
 Two dataset has been used contaning customer order and payments details.
 
