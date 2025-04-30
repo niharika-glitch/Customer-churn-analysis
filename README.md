@@ -1,6 +1,6 @@
 # Customer-churn-analysis
 
-# Two dataset has been used contaning customer order and payments details.
+Two dataset has been used contaning customer order and payments details.
 
 # Data preprocessing:-
 Find key how two data sets are connected
